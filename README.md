@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Sol</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [Allegra Restaurant](https://github.com/solorlanda/restaurant-allegra.git)
 
